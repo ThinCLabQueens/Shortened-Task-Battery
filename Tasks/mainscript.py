@@ -419,7 +419,7 @@ if __name__ == "__main__":
         #you = [youTask,youTask2,youTask3]
 
 
-        short = taskgroup([hardmath, bridgeville, gonogo, memory],"resources/group_inst/ezmath_hrdmath.txt")
+        short = taskgroup([hardmath, bridgeville, gonogo, memory],"resources/group_inst/short.txt")
 
         fulltasklist = [short]
         
