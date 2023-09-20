@@ -304,7 +304,7 @@ class taskgroup(taskbattery,metadatacollection):
                         
         def end(self):
                 text_inst = visual.TextStim(win=taskbattery.win, name='text_1',
-                        text='This is the end of this phase of the experiment. \n Please take a break if you need to before continuing with the study',
+                        text='This is the end of the experiment. \n Please let the attending researcher know you have finished.',
                         font='Open Sans',
                         pos=(0, 0), height=0.1, wrapWidth=None, ori=0.0, 
                         color='black', colorSpace='rgb', opacity=None, 
