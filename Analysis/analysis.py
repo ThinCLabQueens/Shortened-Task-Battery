@@ -10,17 +10,21 @@ sentimentdict = {}
 if os.path.exists("Analysis/accuracy.csv"):
     os.remove("Analysis/accuracy.csv")
 with open("Analysis/accuracy.csv","a") as f:
+    # newdict = {"Subject":None,"Experience_Sampling_Questions_Response_Time":None,
+    #     "GoNoGo_Task_Response_Time":None, "Go_Task_Accuracy":None,"NoGo_Task_Accuracy":None,
+    #     "Finger_Tapping_Task_Response_Time":None, "Finger_Tapping_Task_Accuracy":None,
+    #     "Two-Back_Task-faces_Response_Time":None, "Two-Back_Task-faces_Accuracy":None,
+    #     "Two-Back_Task-scenes_Response_Time":None, "Two-Back_Task-scenes_Accuracy":None,
+    #     "One-Back_Task_Response_Time":None, "One-Back_Task_Accuracy":None,
+    #     "Zero-Back_Task_Response_Time":None, "Zero-Back_Task_Accuracy":None,
+    #     "Hard_Math_Task_Response_Time":None, "Hard_Math_Task_Accuracy":None,
+    #     "Easy_Math_Task_Response_Time":None, "Easy_Math_Task_Accuracy":None,
+    #     "Friend_Task_Response_Time":None, "Friend_Task_Sentiment":None,
+    #     "You_Task_Response_Time":None, "You_Task_Sentiment":None
+    #     }
     newdict = {"Subject":None,"Experience_Sampling_Questions_Response_Time":None,
         "GoNoGo_Task_Response_Time":None, "Go_Task_Accuracy":None,"NoGo_Task_Accuracy":None,
-        "Finger_Tapping_Task_Response_Time":None, "Finger_Tapping_Task_Accuracy":None,
-        "Two-Back_Task-faces_Response_Time":None, "Two-Back_Task-faces_Accuracy":None,
-        "Two-Back_Task-scenes_Response_Time":None, "Two-Back_Task-scenes_Accuracy":None,
-        "One-Back_Task_Response_Time":None, "One-Back_Task_Accuracy":None,
-        "Zero-Back_Task_Response_Time":None, "Zero-Back_Task_Accuracy":None,
         "Hard_Math_Task_Response_Time":None, "Hard_Math_Task_Accuracy":None,
-        "Easy_Math_Task_Response_Time":None, "Easy_Math_Task_Accuracy":None,
-        "Friend_Task_Response_Time":None, "Friend_Task_Sentiment":None,
-        "You_Task_Response_Time":None, "You_Task_Sentiment":None
         }
     writer = csv.writer(f)
     writer.writerow(newdict)
@@ -456,18 +460,23 @@ for file in tqdm(os.listdir("Tasks/log_file")):
                     
                 #print(row)
         with open("Analysis/accuracy.csv","a",newline="") as f:
+            # newdict = {"Subject":resps['Subject'],
+            #  "Experience_Sampling_Questions_Response_Time":np.mean(resps['Experience_Sampling_Questions']['Response_Time']),
+            #  "GoNoGo_Task_Response_Time":np.mean(resps['GoNoGo_Task']['Response_Time']), "NoGo_Task_Accuracy":(resps['GoNoGo_Task']['Accuracy_NoGo'].count(True)/len(resps['GoNoGo_Task']['Accuracy_NoGo'])), "Go_Task_Accuracy":(resps['GoNoGo_Task']['Accuracy_Go'].count(True)/len(resps['GoNoGo_Task']['Accuracy_Go'])),
+            #  "Finger_Tapping_Task_Response_Time":np.mean(resps['Finger_Tapping_Task']['Response_Time']), "Finger_Tapping_Task_Accuracy":(resps['Finger_Tapping_Task']['Accuracy'].count(True)/len(resps['Finger_Tapping_Task']['Accuracy'])),
+            #  "Two-Back_Task-faces_Response_Time":np.mean(resps['Two-Back_Task-faces']['Response_Time']), "Two-Back_Task-faces_Accuracy":(resps['Two-Back_Task-faces']['Accuracy'].count(True)/len(resps['Two-Back_Task-faces']['Accuracy'])),
+            #  "Two-Back_Task-scenes_Response_Time":np.mean(resps['Two-Back_Task-scenes']['Response_Time']), "Two-Back_Task-scenes_Accuracy":(resps['Two-Back_Task-scenes']['Accuracy'].count(True)/len(resps['Two-Back_Task-scenes']['Accuracy'])),
+            #  "One-Back_Task_Response_Time":np.mean(resps['One-Back_Task']['Response_Time']), "One-Back_Task_Accuracy":(resps['One-Back_Task']['Accuracy'].count(True)/len(resps['One-Back_Task']['Accuracy'])),
+            #  "Zero-Back_Task_Response_Time":np.mean(resps['Zero-Back_Task']['Response_Time']), "Zero-Back_Task_Accuracy":(resps['Zero-Back_Task']['Accuracy'].count(True)/len(resps['Zero-Back_Task']['Accuracy'])),
+            #  "Hard_Math_Task_Response_Time":np.mean(resps['Hard_Math_Task']['Response_Time']), "Hard_Math_Task_Accuracy":(resps['Hard_Math_Task']['Accuracy'].count(True)/len(resps['Hard_Math_Task']['Accuracy'])),
+            #  "Easy_Math_Task_Response_Time":np.mean(resps['Easy_Math_Task']['Response_Time']), "Easy_Math_Task_Accuracy":(resps['Easy_Math_Task']['Accuracy'].count(True)/len(resps['Easy_Math_Task']['Accuracy'])),
+            #  "Friend_Task_Response_Time":np.mean(resps['Friend_Task']['Response_Time']), "Friend_Task_Sentiment":(resps['Friend_Task']['Sentiment'].count(True)/(len(resps['Friend_Task']['Sentiment']) + 1e-6)),
+            #  "You_Task_Response_Time":np.mean(resps['You_Task']['Response_Time']), "You_Task_Sentiment":(resps['You_Task']['Sentiment'].count(True)/(len(resps['You_Task']['Sentiment']) + 1e-6))
+            #  }
             newdict = {"Subject":resps['Subject'],
              "Experience_Sampling_Questions_Response_Time":np.mean(resps['Experience_Sampling_Questions']['Response_Time']),
              "GoNoGo_Task_Response_Time":np.mean(resps['GoNoGo_Task']['Response_Time']), "NoGo_Task_Accuracy":(resps['GoNoGo_Task']['Accuracy_NoGo'].count(True)/len(resps['GoNoGo_Task']['Accuracy_NoGo'])), "Go_Task_Accuracy":(resps['GoNoGo_Task']['Accuracy_Go'].count(True)/len(resps['GoNoGo_Task']['Accuracy_Go'])),
-             "Finger_Tapping_Task_Response_Time":np.mean(resps['Finger_Tapping_Task']['Response_Time']), "Finger_Tapping_Task_Accuracy":(resps['Finger_Tapping_Task']['Accuracy'].count(True)/len(resps['Finger_Tapping_Task']['Accuracy'])),
-             "Two-Back_Task-faces_Response_Time":np.mean(resps['Two-Back_Task-faces']['Response_Time']), "Two-Back_Task-faces_Accuracy":(resps['Two-Back_Task-faces']['Accuracy'].count(True)/len(resps['Two-Back_Task-faces']['Accuracy'])),
-             "Two-Back_Task-scenes_Response_Time":np.mean(resps['Two-Back_Task-scenes']['Response_Time']), "Two-Back_Task-scenes_Accuracy":(resps['Two-Back_Task-scenes']['Accuracy'].count(True)/len(resps['Two-Back_Task-scenes']['Accuracy'])),
-             "One-Back_Task_Response_Time":np.mean(resps['One-Back_Task']['Response_Time']), "One-Back_Task_Accuracy":(resps['One-Back_Task']['Accuracy'].count(True)/len(resps['One-Back_Task']['Accuracy'])),
-             "Zero-Back_Task_Response_Time":np.mean(resps['Zero-Back_Task']['Response_Time']), "Zero-Back_Task_Accuracy":(resps['Zero-Back_Task']['Accuracy'].count(True)/len(resps['Zero-Back_Task']['Accuracy'])),
              "Hard_Math_Task_Response_Time":np.mean(resps['Hard_Math_Task']['Response_Time']), "Hard_Math_Task_Accuracy":(resps['Hard_Math_Task']['Accuracy'].count(True)/len(resps['Hard_Math_Task']['Accuracy'])),
-             "Easy_Math_Task_Response_Time":np.mean(resps['Easy_Math_Task']['Response_Time']), "Easy_Math_Task_Accuracy":(resps['Easy_Math_Task']['Accuracy'].count(True)/len(resps['Easy_Math_Task']['Accuracy'])),
-             "Friend_Task_Response_Time":np.mean(resps['Friend_Task']['Response_Time']), "Friend_Task_Sentiment":(resps['Friend_Task']['Sentiment'].count(True)/(len(resps['Friend_Task']['Sentiment']) + 1e-6)),
-             "You_Task_Response_Time":np.mean(resps['You_Task']['Response_Time']), "You_Task_Sentiment":(resps['You_Task']['Sentiment'].count(True)/(len(resps['You_Task']['Sentiment']) + 1e-6))
              }
             writer = csv.writer(f)
             writer.writerow(newdict.values())
