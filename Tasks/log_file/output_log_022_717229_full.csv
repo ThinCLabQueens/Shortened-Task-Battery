@@ -1,0 +1,969 @@
+METADATA:
+Experiment Seed,Subject
+717229,022
+Time after setup,39.761823900043964
+Timepoint,Time,Is_correct,Experience Sampling Question,Experience Sampling Response,Task,Task Iteration,Participant ID,Response_Key,Auxillary Data,Assoc Task
+EXPERIMENT DATA:,GoNoGo Task
+Start Time,65.21204570005648
+gonogo START,65.21208109997679,,,,GoNoGo Task,1,022,,,
+Go/NoGo Initialized,93.23373189999256,,,,GoNoGo Task,1,022,,,
+Stimulus start,94.04329399997368,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,94.80181950004771,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,95.85774740006309,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,96.87020370003302,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,97.42829020007048,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,98.68811640003696,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,99.24743570003193,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,100.5064128000522,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,101.06623280001804,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,102.32403770007659,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,103.13097419997212,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,103.89197950006928,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,104.6967989000259,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,105.96049790002871,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,107.01487399998587,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,107.7786599000683,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,108.58658010000363,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,109.59697140008211,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,110.65280440007336,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,111.41509839997161,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,112.22059959999751,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,112.98275610001292,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,113.54092170007061,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,114.30066539999098,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,114.8612380999839,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,115.61832820007112,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,116.1738972000312,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,117.43626820005011,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,118.49534770008177,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,119.25456530007068,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,120.30963230005,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,121.07268930005375,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,121.62947599997278,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,122.89079069998115,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,123.69562000001315,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,124.95906390005257,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,126.01452860003337,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,127.27754580008332,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,128.3325421999907,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,129.59601710003335,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,130.15026450005826,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,131.16419560008217,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,131.71970850008074,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,132.9820434000576,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,133.78742870001588,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,134.8001621000003,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,135.60598720004782,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,136.3681435000617,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,137.17355629999656,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,137.93619090004358,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,138.48939360002987,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,139.50389370007906,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,140.5597813000204,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,141.5720478000585,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,142.37980110000353,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,143.39057699998375,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,144.19437320006546,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,145.45872890006285,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,146.26308180007618,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,147.27703670004848,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,148.08302290004212,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,148.8448655999964,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,149.40029090002645,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,150.41284230002202,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,150.96757780003827,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,151.73059489997104,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,152.53431580006145,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,153.54850749997422,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,154.3540305000497,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,155.3666513999924,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,156.17131140001584,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,157.18493560003117,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,158.23992010008078,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,159.25303000002168,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,159.80860290001146,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,161.0709332000697,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,162.12810019997414,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,163.13950789999217,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,164.1942405999871,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,164.9577774000354,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,165.51616920006927,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,166.77569370006677,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,167.8313852000283,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,168.84403779997956,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,169.40066609997302,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,170.41201059997547,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,171.46673820004798,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,172.73041120008565,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,173.78459749999456,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,174.54860960005317,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,175.60384610004257,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,176.61697730002925,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,177.67190730001312,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,178.9354637999786,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,179.99004439997952,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,181.00366779998876,False,,,GoNoGo Task,1,022,,Type: Go,
+Go/NoGo Finished,181.01851349999197,,,,GoNoGo Task,1,022,,,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,181.03836560004856
+ESQ,186.16458440001588,,Other_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,203.6707943000365,,Other_response,2.0,Experience Sampling Questions,1,022,,Marker Started at 5,GoNoGo Task
+ESQ,203.6712825000286,,Intrusive_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,210.89326829998754,,Intrusive_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 4,GoNoGo Task
+ESQ,210.89498670003377,,Deliberate_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,227.7565515000606,,Deliberate_response,9.000000000000004,Experience Sampling Questions,1,022,,Marker Started at 10,GoNoGo Task
+ESQ,227.7581543000415,,Problem_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,245.3375359000638,,Problem_response,3.100000000000001,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,245.33911270007957,,Words_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,255.9963372000493,,Words_response,8.999999999999996,Experience Sampling Questions,1,022,,Marker Started at 8,GoNoGo Task
+ESQ,255.99783770006616,,Knowledge_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,270.05750460003037,,Knowledge_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 7,GoNoGo Task
+ESQ,270.0591011000797,,Images_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,278.16356380004436,,Images_response,9.399999999999988,Experience Sampling Questions,1,022,,Marker Started at 6,GoNoGo Task
+ESQ,278.16508930001874,,Emotion_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,287.27102109999396,,Emotion_response,7.999999999999993,Experience Sampling Questions,1,022,,Marker Started at 6,GoNoGo Task
+ESQ,287.272646300029,,Past_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,298.4467679000227,,Past_response,1.7999999999999998,Experience Sampling Questions,1,022,,Marker Started at 4,GoNoGo Task
+ESQ,298.44827789999545,,Sounds_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,305.0689834000077,,Sounds_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 5,GoNoGo Task
+ESQ,305.07061350008007,,Detailed_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,317.41189630003646,,Detailed_response,4.100000000000001,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,317.4135084999725,,Absorption_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,326.8862464000704,,Absorption_response,9.599999999999987,Experience Sampling Questions,1,022,,Marker Started at 6,GoNoGo Task
+ESQ,326.88775330001954,,Focus_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,338.54634140001144,,Focus_response,2.7000000000000157,Experience Sampling Questions,1,022,,Marker Started at 10,GoNoGo Task
+ESQ,338.5478984999936,,Self_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,345.7677888000617,,Self_response,8.399999999999995,Experience Sampling Questions,1,022,,Marker Started at 7,GoNoGo Task
+ESQ,345.76879950007424,,Distracting_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,350.3536820000736,,Distracting_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,350.35426220006775,,Future_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,356.9101932999911,,Future_response,2.4999999999999996,Experience Sampling Questions,1,022,,Marker Started at 3,GoNoGo Task
+EXPERIMENT DATA:,GoNoGo Task
+Start Time,356.92780260008294
+gonogo START,356.9278425000375,,,,GoNoGo Task,1,022,,,
+Go/NoGo Initialized,373.60701530007645,,,,GoNoGo Task,1,022,,,
+Stimulus start,374.66280010004994,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,375.4252560000168,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,376.481767600053,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,377.74403729999904,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,378.30049190006685,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,379.3118322000373,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,380.3659779999871,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,381.38009810005315,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,381.93585650005843,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,383.19806890003383,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,384.25335350004025,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,385.26650839997455,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,386.0734295999864,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,387.08469809999224,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,387.6408508999739,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,388.90270950004924,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,389.70727820007596,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,390.47078940004576,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,391.0276938000461,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,391.7884589000605,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,392.3475161000388,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,393.106165300007,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,393.91196429997217,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,395.1744605000131,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,395.7310742000118,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,396.49225410004146,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,397.5475160999922,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,398.8105660000583,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,399.6161422000732,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,400.3780988000799,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,401.4335706999991,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,402.4469894000795,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,403.2538432000438,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,404.0150146000087,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,405.07255939999595,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,406.33328600006644,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,407.13705400004983,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,408.40157890005503,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,409.20671210007276,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,410.2197694000788,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,410.7759366000537,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,411.53751860000193,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,412.5962490000529,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,413.3556610000087,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,414.40888370003086,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,415.4240125999786,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,415.9834501000587,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,417.2418838000158,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,418.29680190002546,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,419.31028309999965,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,420.36736670008395,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,421.6286789000733,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,422.6842799000442,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,423.6972002000548,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,424.2520569000626,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,425.515081700054,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,426.5708893000847,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,427.3333174000727,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,427.8880018000491,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,428.6512466999702,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,429.4561328999698,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,430.4692129000323,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,431.27828570001293,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,432.2870835000649,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,433.342860499979,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,434.6052781000035,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,435.4094768000068,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,436.4238959000213,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,437.2301225999836,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,438.24207769997884,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,439.04780399997253,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,440.31040469999425,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,441.12121630006004,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,442.37867510004435,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,443.1853756000055,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,444.1967878000578,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,444.7524576999713,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,445.764723100001,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,446.32019080000464,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,447.58272399997804,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,448.3886160000693,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,449.15068339998834,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,450.20343610004056,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,450.96896620001644,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,452.02952600002754,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,452.7868978000479,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,453.8428680000361,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,454.85541349998675,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,455.410717700026,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,456.42317680001725,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,457.5015061000595,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,458.75827420002315,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,459.31657869997434,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,460.3263700000243,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,461.1337395000737,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,462.3945952000795,False,,,GoNoGo Task,1,022,,Type: Go,
+Go/NoGo Finished,462.4050462000305,,,,GoNoGo Task,1,022,,,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,462.4112879000604
+ESQ,466.50792600004934,,Other_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,480.0577470000135,,Other_response,2.9000000000000123,Experience Sampling Questions,1,022,,Marker Started at 9,GoNoGo Task
+ESQ,480.05889450001996,,Detailed_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,487.1645485999761,,Detailed_response,6.299999999999999,Experience Sampling Questions,1,022,,Marker Started at 6,GoNoGo Task
+ESQ,487.1661204000702,,Knowledge_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,495.00310219998937,,Knowledge_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 7,GoNoGo Task
+ESQ,495.003573999973,,Deliberate_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,501.02376680006273,,Deliberate_response,9.399999999999986,Experience Sampling Questions,1,022,,Marker Started at 4,GoNoGo Task
+ESQ,501.0254147000378,,Distracting_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,505.9950793000171,,Distracting_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,505.9961351000238,,Absorption_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,512.1007415000349,,Absorption_response,8.799999999999988,Experience Sampling Questions,1,022,,Marker Started at 3,GoNoGo Task
+ESQ,512.1022086000303,,Intrusive_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,517.071029099985,,Intrusive_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 3,GoNoGo Task
+ESQ,517.0725660000462,,Emotion_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,525.0269482000731,,Emotion_response,9.099999999999989,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,525.0284530000063,,Images_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,534.0010782000609,,Images_response,6.600000000000005,Experience Sampling Questions,1,022,,Marker Started at 8,GoNoGo Task
+ESQ,534.0026415999746,,Problem_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,542.0414476000005,,Problem_response,4.3000000000000025,Experience Sampling Questions,1,022,,Marker Started at 6,GoNoGo Task
+ESQ,542.0420685000718,,Sounds_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,545.6434687000001,,Sounds_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,545.6440032999963,,Focus_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,561.1060915000271,,Focus_response,3.3000000000000163,Experience Sampling Questions,1,022,,Marker Started at 10,GoNoGo Task
+ESQ,561.1067788000219,,Past_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,565.0091275000013,,Past_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,565.0107606999809,,Future_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,570.280716600013,,Future_response,3.1000000000000054,Experience Sampling Questions,1,022,,Marker Started at 7,GoNoGo Task
+ESQ,570.2812483999878,,Words_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,574.6167298000073,,Words_response,8.999999999999996,Experience Sampling Questions,1,022,,Marker Started at 8,GoNoGo Task
+ESQ,574.618339800043,,Self_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,605.9581517999759,,Self_response,9.399999999999986,Experience Sampling Questions,1,022,,Marker Started at 3,GoNoGo Task
+EXPERIMENT DATA:,GoNoGo Task
+Start Time,605.9700235000346
+gonogo START,605.9700570000568,,,,GoNoGo Task,1,022,,,
+Go/NoGo Initialized,617.1343220999697,,,,GoNoGo Task,1,022,,,
+Stimulus start,618.1926991000073,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,618.9522308000596,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,620.0111567999702,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,621.270804699976,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,621.8267862000503,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,622.8386223000707,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,623.8960824999958,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,624.9069829999935,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,625.4624692000216,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,626.7256239000708,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,627.78017370007,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,628.7940328000113,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,629.6003095000051,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,630.6121458000271,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,631.1672587000066,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,632.4301177000161,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,633.2351954000769,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,633.998073900002,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,634.5530654999893,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,635.3157115000067,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,635.8709806000115,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,636.6334879000206,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,637.4368928000331,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,638.7015079000266,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,639.2557275000727,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,640.0195066999877,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,641.0741038999986,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,642.3380142999813,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,643.1414715000428,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,643.9060371000087,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,644.9611082000192,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,645.9744484000839,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,646.7789412999991,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,647.5422530000797,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,648.5965799000114,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,649.8606287000002,noResponse,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,650.6646324000321,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,651.9289740000386,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,652.7321911000181,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,653.747255400056,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,654.3020621000323,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,655.0648118000245,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,656.1181169999763,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,656.883108500042,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,657.9370969000738,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,658.9513621000806,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,659.5041773000266,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,660.7695084000006,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,661.82425960002,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,662.8376534000272,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,663.8926852999721,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,665.1562979000155,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,666.2100333999842,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,667.224740399979,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,667.7790661000181,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,669.0427566000726,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,670.0962814000668,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,670.8607593000634,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,671.4137372000841,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,672.1785517000826,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,672.9817876999732,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,673.9965185000328,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,674.80123620003,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,675.8145602999721,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,676.8694354000036,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,678.1332217999734,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,678.9368455000222,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,679.9512247000821,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,680.7552541000769,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,681.7695774000604,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,682.5733688999899,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,683.8377239999827,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,684.6441028000554,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,685.90606259997,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,686.7103466000408,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,687.724111400079,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,688.2770764000015,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,689.2921005000826,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,689.8454068000428,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,691.1099129000213,True,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,691.9142154000001,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,692.6783065000782,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,693.7311564000556,,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus end,694.4962087000022,False,,,GoNoGo Task,1,022,,Type: NoGo,
+Stimulus start,695.5518273999915,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,696.3142928000307,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,697.3676487000193,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,698.382679500035,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,698.9360602999805,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,699.9507461000467,False,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus start,701.0035540000536,,,,GoNoGo Task,1,022,,Type: Go,
+Stimulus end,702.2691047000699,False,,,GoNoGo Task,1,022,,Type: Go,
+Go/NoGo Finished,702.2841327000642,,,,GoNoGo Task,1,022,,,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,702.3033093999838
+ESQ,705.1738876000745,,Future_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,712.9106752000516,,Future_response,4.700000000000003,Experience Sampling Questions,1,022,,Marker Started at 6,GoNoGo Task
+ESQ,712.9124238999793,,Knowledge_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,716.9803788000718,,Knowledge_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 8,GoNoGo Task
+ESQ,716.9818573000375,,Past_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,722.4845378000755,,Past_response,1.6000000000000152,Experience Sampling Questions,1,022,,Marker Started at 10,GoNoGo Task
+ESQ,722.4855302000651,,Emotion_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,727.4221375000197,,Emotion_response,8.400000000000002,Experience Sampling Questions,1,022,,Marker Started at 9,GoNoGo Task
+ESQ,727.4236782999942,,Intrusive_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,731.8590938000707,,Intrusive_response,1.7999999999999998,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,731.8595551999751,,Focus_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,736.5127880000509,,Focus_response,7.0000000000000036,Experience Sampling Questions,1,022,,Marker Started at 8,GoNoGo Task
+ESQ,736.5133362000342,,Images_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,743.0346773000201,,Images_response,8.9,Experience Sampling Questions,1,022,,Marker Started at 9,GoNoGo Task
+ESQ,743.0364395000506,,Distracting_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,747.8708801000612,,Distracting_response,1.2000000000000117,Experience Sampling Questions,1,022,,Marker Started at 9,GoNoGo Task
+ESQ,747.8713417000836,,Words_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,754.3269234000472,,Words_response,9.399999999999988,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,754.3284063000465,,Self_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,758.1298429999733,,Self_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 8,GoNoGo Task
+ESQ,758.1314415000379,,Absorption_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,764.2342004000675,,Absorption_response,7.500000000000009,Experience Sampling Questions,1,022,,Marker Started at 10,GoNoGo Task
+ESQ,764.2357096000342,,Deliberate_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,769.522542700055,,Deliberate_response,7.699999999999993,Experience Sampling Questions,1,022,,Marker Started at 2,GoNoGo Task
+ESQ,769.5244970000349,,Detailed_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,774.0431577999843,,Detailed_response,7.999999999999993,Experience Sampling Questions,1,022,,Marker Started at 6,GoNoGo Task
+ESQ,774.0448826000793,,Problem_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,780.8308355000336,,Problem_response,8.000000000000007,Experience Sampling Questions,1,022,,Marker Started at 10,GoNoGo Task
+ESQ,780.8325511000585,,Sounds_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,785.0178444000194,,Sounds_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 6,GoNoGo Task
+ESQ,785.0185060000513,,Other_start,,Experience Sampling Questions,1,022,,,GoNoGo Task
+ESQ,794.1748164000455,,Other_response,8.499999999999988,Experience Sampling Questions,1,022,,Marker Started at 5,GoNoGo Task
+EXPERIMENT DATA:,Memory Task
+Start Time,794.1936689000577
+Memory Task Starting,794.8695539999753,,,,Memory Task,1,022,,,
+Memory Prompt Shown,821.7824805000564,,,,Memory Task,1,022,,,
+Text Input Submitted,830.7570510000223,,,,Memory Task,1,022,,,
+Ready Check Started,834.7652609000215,,,,Memory Task,1,022,,,
+Ready Check Ended,839.21362220007,,,,Memory Task,1,022,,,
+Blank Memory Recall Period Started,859.2279806999722,,,,Memory Task,1,022,,,
+Blank Memory Recall Period Ended,860.2285794999916,,,,Memory Task,1,022,,,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,861.2473772000521
+ESQ,866.1444549000589,,Knowledge_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,872.7202901000855,,Knowledge_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 9,Memory Task
+ESQ,872.7208567999769,,Intrusive_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,878.9760506000603,,Intrusive_response,2.4999999999999973,Experience Sampling Questions,1,022,,Marker Started at 5,Memory Task
+ESQ,878.9774610999739,,Past_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,883.9801639000652,,Past_response,9.499999999999988,Experience Sampling Questions,1,022,,Marker Started at 2,Memory Task
+ESQ,883.9816824999871,,Focus_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,892.3365719000576,,Focus_response,3.000000000000016,Experience Sampling Questions,1,022,,Marker Started at 10,Memory Task
+ESQ,892.3370326000731,,Emotion_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,899.8426491999999,,Emotion_response,6.299999999999995,Experience Sampling Questions,1,022,,Marker Started at 5,Memory Task
+ESQ,899.8442839999916,,Sounds_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,912.8865561999846,,Sounds_response,1.8000000000000151,Experience Sampling Questions,1,022,,Marker Started at 10,Memory Task
+ESQ,912.8880776000442,,Future_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,917.1899208000395,,Future_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 6,Memory Task
+ESQ,917.1906467999797,,Words_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,922.0607846999774,,Words_response,9.0,Experience Sampling Questions,1,022,,Marker Started at 9,Memory Task
+ESQ,922.0622689999873,,Self_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,927.0144411000656,,Self_response,2.5000000000000004,Experience Sampling Questions,1,022,,Marker Started at 2,Memory Task
+ESQ,927.0155023999978,,Distracting_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,934.4537700000219,,Distracting_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 4,Memory Task
+ESQ,934.454439299996,,Problem_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,938.5725723999785,,Problem_response,2.1999999999999993,Experience Sampling Questions,1,022,,Marker Started at 3,Memory Task
+ESQ,938.5740530000767,,Other_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,942.509577000048,,Other_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 7,Memory Task
+ESQ,942.510322200018,,Detailed_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,950.5500081999926,,Detailed_response,3.9000000000000097,Experience Sampling Questions,1,022,,Marker Started at 8,Memory Task
+ESQ,950.5515035999706,,Deliberate_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,956.0709702000022,,Deliberate_response,7.9000000000000075,Experience Sampling Questions,1,022,,Marker Started at 10,Memory Task
+ESQ,956.0723898999859,,Images_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,959.2569759000326,,Images_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 8,Memory Task
+ESQ,959.2584306000499,,Absorption_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,964.9780718000839,,Absorption_response,6.399999999999997,Experience Sampling Questions,1,022,,Marker Started at 3,Memory Task
+EXPERIMENT DATA:,Memory Task
+Start Time,964.991861000075
+Memory Task Starting,965.3557505999925,,,,Memory Task,1,022,,,
+Memory Prompt Shown,976.629455300048,,,,Memory Task,1,022,,,
+Text Input Submitted,986.3977805000031,,,,Memory Task,1,022,,,
+Ready Check Started,990.4058480000822,,,,Memory Task,1,022,,,
+Ready Check Ended,991.9687963000033,,,,Memory Task,1,022,,,
+Blank Memory Recall Period Started,1011.9829925000668,,,,Memory Task,1,022,,,
+Blank Memory Recall Period Ended,1012.9838721000124,,,,Memory Task,1,022,,,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,1014.0033115000697
+ESQ,1017.8651172000682,,Deliberate_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1025.9772742000641,,Deliberate_response,7.9999999999999964,Experience Sampling Questions,1,022,,Marker Started at 7,Memory Task
+ESQ,1025.978886900004,,Detailed_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1030.8639274999732,,Detailed_response,7.100000000000007,Experience Sampling Questions,1,022,,Marker Started at 9,Memory Task
+ESQ,1030.8646532000275,,Past_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1036.5349123000633,,Past_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 2,Memory Task
+ESQ,1036.5355223000515,,Problem_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1042.238673200016,,Problem_response,4.10000000000001,Experience Sampling Questions,1,022,,Marker Started at 8,Memory Task
+ESQ,1042.2397481000517,,Sounds_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1046.2422038000077,,Sounds_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 7,Memory Task
+ESQ,1046.243713599979,,Emotion_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1051.7469953000546,,Emotion_response,8.799999999999986,Experience Sampling Questions,1,022,,Marker Started at 5,Memory Task
+ESQ,1051.7484140000306,,Absorption_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1057.5519086000277,,Absorption_response,7.999999999999992,Experience Sampling Questions,1,022,,Marker Started at 2,Memory Task
+ESQ,1057.5534069000278,,Future_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1061.4381022000453,,Future_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 2,Memory Task
+ESQ,1061.438617900014,,Distracting_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1067.543285200023,,Distracting_response,1.7000000000000153,Experience Sampling Questions,1,022,,Marker Started at 10,Memory Task
+ESQ,1067.5437572000083,,Intrusive_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1071.8642172000837,,Intrusive_response,1.6999999999999984,Experience Sampling Questions,1,022,,Marker Started at 4,Memory Task
+ESQ,1071.865774200065,,Self_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1080.670174799976,,Self_response,9.299999999999999,Experience Sampling Questions,1,022,,Marker Started at 9,Memory Task
+ESQ,1080.6717623000732,,Other_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1084.5400265000062,,Other_response,8.899999999999988,Experience Sampling Questions,1,022,,Marker Started at 2,Memory Task
+ESQ,1084.541505399975,,Knowledge_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1088.3428854000522,,Knowledge_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 7,Memory Task
+ESQ,1088.3440820000833,,Focus_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1096.6659428999992,,Focus_response,1.5,Experience Sampling Questions,1,022,,Marker Started at 2,Memory Task
+ESQ,1096.6675599999726,,Words_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1102.6375189999817,,Words_response,9.599999999999994,Experience Sampling Questions,1,022,,Marker Started at 8,Memory Task
+ESQ,1102.6389923000243,,Images_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1107.0079930999782,,Images_response,8.699999999999989,Experience Sampling Questions,1,022,,Marker Started at 4,Memory Task
+EXPERIMENT DATA:,Memory Task
+Start Time,1107.0217901000287
+Memory Task Starting,1107.3830662000692,,,,Memory Task,1,022,,,
+Memory Prompt Shown,1114.1655097000767,,,,Memory Task,1,022,,,
+Text Input Submitted,1119.4045578000369,,,,Memory Task,1,022,,,
+Ready Check Started,1123.4116053000325,,,,Memory Task,1,022,,,
+Ready Check Ended,1124.8746118000709,,,,Memory Task,1,022,,,
+Blank Memory Recall Period Started,1144.8890310999705,,,,Memory Task,1,022,,,
+Blank Memory Recall Period Ended,1145.8898464000085,,,,Memory Task,1,022,,,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,1146.9086261000484
+ESQ,1149.3874525000574,,Images_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1155.9466111999936,,Images_response,7.3000000000000025,Experience Sampling Questions,1,022,,Marker Started at 8,Memory Task
+ESQ,1155.9480247000465,,Emotion_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1161.017467900063,,Emotion_response,6.099999999999998,Experience Sampling Questions,1,022,,Marker Started at 3,Memory Task
+ESQ,1161.0189702999778,,Self_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1166.6887858000118,,Self_response,2.700000000000005,Experience Sampling Questions,1,022,,Marker Started at 7,Memory Task
+ESQ,1166.6903996000765,,Deliberate_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1173.82757329999,,Deliberate_response,4.500000000000002,Experience Sampling Questions,1,022,,Marker Started at 2,Memory Task
+ESQ,1173.8290116999997,,Detailed_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1177.5974302000832,,Detailed_response,7.000000000000007,Experience Sampling Questions,1,022,,Marker Started at 9,Memory Task
+ESQ,1177.5979852000019,,Sounds_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1181.7508996999823,,Sounds_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 9,Memory Task
+ESQ,1181.7515239000786,,Distracting_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1186.4384002999868,,Distracting_response,2.3000000000000083,Experience Sampling Questions,1,022,,Marker Started at 8,Memory Task
+ESQ,1186.4393917999696,,Future_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1197.596590799978,,Future_response,1.7,Experience Sampling Questions,1,022,,Marker Started at 6,Memory Task
+ESQ,1197.5981698000105,,Knowledge_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1204.252275899984,,Knowledge_response,9.299999999999988,Experience Sampling Questions,1,022,,Marker Started at 2,Memory Task
+ESQ,1204.253741600085,,Words_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1209.75662130001,,Words_response,9.399999999999984,Experience Sampling Questions,1,022,,Marker Started at 5,Memory Task
+ESQ,1209.7580092999851,,Other_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1216.0619085000362,,Other_response,3.9000000000000132,Experience Sampling Questions,1,022,,Marker Started at 9,Memory Task
+ESQ,1216.0633921000408,,Intrusive_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1221.1315587999998,,Intrusive_response,3.000000000000016,Experience Sampling Questions,1,022,,Marker Started at 10,Memory Task
+ESQ,1221.1332920000423,,Past_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1225.2188311000355,,Past_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 10,Memory Task
+ESQ,1225.220271600061,,Focus_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1230.9230436000507,,Focus_response,2.999999999999999,Experience Sampling Questions,1,022,,Marker Started at 4,Memory Task
+ESQ,1230.9245901000686,,Absorption_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1235.7939790000673,,Absorption_response,6.800000000000008,Experience Sampling Questions,1,022,,Marker Started at 9,Memory Task
+ESQ,1235.795475800056,,Problem_start,,Experience Sampling Questions,1,022,,,Memory Task
+ESQ,1240.2311220000265,,Problem_response,4.10000000000001,Experience Sampling Questions,1,022,,Marker Started at 8,Memory Task
+EXPERIMENT DATA:,Movie Task
+Start Time,1240.2473755000392
+Movie Task Start,1240.247413999983,,,,Movie Task,1,022,,,
+Movie Init,1264.3070619000355,,,,Movie Task,1,022,,,
+Movie Start,1264.307100099977,,,,Movie Task,1,022,,bridge.mp4,
+ESQ,1293.748243900016,,Future_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1302.2791322000558,,Future_response,2.2,Movie Task,1,022,,Marker Started at 2,Movie Task-bridge
+ESQ,1302.2797142000636,,Emotion_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1309.4023521000054,,Emotion_response,8.300000000000002,Movie Task,1,022,,Marker Started at 9,Movie Task-bridge
+ESQ,1309.4029813000234,,Self_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1314.4563121000538,,Self_response,7.499999999999991,Movie Task,1,022,,Marker Started at 5,Movie Task-bridge
+ESQ,1314.4567341000075,,Absorption_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1320.3105225000763,,Absorption_response,3.6000000000000094,Movie Task,1,022,,Marker Started at 8,Movie Task-bridge
+ESQ,1320.3111444000388,,Other_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1323.4806013000198,,Other_response,8.99999999999999,Movie Task,1,022,,Marker Started at 6,Movie Task-bridge
+ESQ,1323.4812050000764,,Problem_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1326.9664434000151,,Problem_response,1.0,Movie Task,1,022,,Marker Started at 6,Movie Task-bridge
+ESQ,1326.9670666999882,,Past_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1332.338082100032,,Past_response,2.0000000000000044,Movie Task,1,022,,Marker Started at 7,Movie Task-bridge
+ESQ,1332.3386794000398,,Distracting_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1338.0088829000015,,Distracting_response,3.7000000000000015,Movie Task,1,022,,Marker Started at 2,Movie Task-bridge
+ESQ,1338.009504500078,,Images_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1344.413754899986,,Images_response,8.599999999999994,Movie Task,1,022,,Marker Started at 7,Movie Task-bridge
+ESQ,1344.4143238000106,,Focus_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1350.9362796000205,,Focus_response,6.7999999999999945,Movie Task,1,022,,Marker Started at 4,Movie Task-bridge
+ESQ,1350.9368480000412,,Intrusive_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1354.6556759000523,,Intrusive_response,3.9000000000000017,Movie Task,1,022,,Marker Started at 2,Movie Task-bridge
+ESQ,1354.6561173000373,,Sounds_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1361.576989500085,,Sounds_response,4.000000000000013,Movie Task,1,022,,Marker Started at 9,Movie Task-bridge
+ESQ,1361.5776006000815,,Detailed_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1367.6987574000377,,Detailed_response,1.4999999999999993,Movie Task,1,022,,Marker Started at 3,Movie Task-bridge
+ESQ,1367.6993904000847,,Deliberate_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1373.6037355000153,,Deliberate_response,2.0999999999999983,Movie Task,1,022,,Marker Started at 4,Movie Task-bridge
+ESQ,1373.604178700014,,Knowledge_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1381.0590311000124,,Knowledge_response,9.199999999999989,Movie Task,1,022,,Marker Started at 6,Movie Task-bridge
+ESQ,1381.0596133000217,,Words_start,,Movie Task,1,022,,,Movie Task-bridge
+ESQ,1386.4968347999966,,Words_response,6.6000000000000085,Movie Task,1,022,,Marker Started at 9,Movie Task-bridge
+Movie End bridge.mp4,1430.566283900058,,,,Movie Task,1,022,,36,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,1430.6073375000851
+ESQ,1434.0798611000646,,Self_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1439.1060810000636,,Self_response,4.800000000000002,Experience Sampling Questions,1,022,,Marker Started at 3,Movie Task-Movie Task-bridge
+ESQ,1439.1067003000062,,Problem_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1444.0431707000826,,Problem_response,2.500000000000012,Experience Sampling Questions,1,022,,Marker Started at 9,Movie Task-Movie Task-bridge
+ESQ,1444.0438020000001,,Deliberate_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1448.7138732000021,,Deliberate_response,1.4999999999999984,Experience Sampling Questions,1,022,,Marker Started at 4,Movie Task-Movie Task-bridge
+ESQ,1448.7144754000474,,Distracting_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1454.5182426000247,,Distracting_response,3.400000000000013,Experience Sampling Questions,1,022,,Marker Started at 9,Movie Task-Movie Task-bridge
+ESQ,1454.5188190999907,,Emotion_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1459.1551087000407,,Emotion_response,5.000000000000001,Experience Sampling Questions,1,022,,Marker Started at 4,Movie Task-Movie Task-bridge
+ESQ,1459.1557638000231,,Knowledge_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1465.2931484000292,,Knowledge_response,4.800000000000001,Experience Sampling Questions,1,022,,Marker Started at 4,Movie Task-Movie Task-bridge
+ESQ,1465.2937230999814,,Past_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1469.8643618000206,,Past_response,6.700000000000012,Experience Sampling Questions,1,022,,Marker Started at 10,Movie Task-Movie Task-bridge
+ESQ,1469.8647830000846,,Detailed_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1474.484080699971,,Detailed_response,3.200000000000001,Experience Sampling Questions,1,022,,Marker Started at 2,Movie Task-Movie Task-bridge
+ESQ,1474.4846886000596,,Focus_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1480.2889553999994,,Focus_response,6.0,Experience Sampling Questions,1,022,,Marker Started at 6,Movie Task-Movie Task-bridge
+ESQ,1480.2895752000622,,Sounds_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1489.1450244999724,,Sounds_response,3.7000000000000006,Experience Sampling Questions,1,022,,Marker Started at 3,Movie Task-Movie Task-bridge
+ESQ,1489.145639800001,,Other_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1498.9534831000492,,Other_response,4.600000000000001,Experience Sampling Questions,1,022,,Marker Started at 3,Movie Task-Movie Task-bridge
+ESQ,1498.9539268000517,,Absorption_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1503.406696400023,,Absorption_response,4.100000000000001,Experience Sampling Questions,1,022,,Marker Started at 3,Movie Task-Movie Task-bridge
+ESQ,1503.407268900075,,Intrusive_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1507.026622400037,,Intrusive_response,1.2999999999999985,Experience Sampling Questions,1,022,,Marker Started at 4,Movie Task-Movie Task-bridge
+ESQ,1507.0272897999967,,Words_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1511.7967018000782,,Words_response,7.8999999999999915,Experience Sampling Questions,1,022,,Marker Started at 3,Movie Task-Movie Task-bridge
+ESQ,1511.7971574000549,,Images_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1515.1827134999912,,Images_response,8.09999999999999,Experience Sampling Questions,1,022,,Marker Started at 4,Movie Task-Movie Task-bridge
+ESQ,1515.1833511000732,,Future_start,,Experience Sampling Questions,1,022,,,Movie Task-Movie Task-bridge
+ESQ,1520.0037272999762,,Future_response,2.1000000000000045,Experience Sampling Questions,1,022,,Marker Started at 7,Movie Task-Movie Task-bridge
+EXPERIMENT DATA:,Hard Math Task
+Start Time,1520.0199245000258
+Math Task Start,1545.0112879000371,,,,Hard Math Task,1,022,,,
+fixation cross,1545.02383369999,,,,Hard Math Task,1,022,,,
+Math Trial Start,1547.0675080000656,,,,Hard Math Task,1,022,,,
+Choice presented,1547.0766136000166,,,,Hard Math Task,1,022,,,
+Choice made,1550.3111475000624,,,,Hard Math Task,1,022,,,
+Math Trial End,1550.3112213000422,True,,,Hard Math Task,1,022,,,
+Math Trial End,1550.3112375000492,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1552.33900180005,,,,Hard Math Task,1,022,,,
+Choice presented,1552.348544800072,,,,Hard Math Task,1,022,,,
+Choice made,1554.6982420000713,,,,Hard Math Task,1,022,,,
+Math Trial End,1554.6983118000207,True,,,Hard Math Task,1,022,,,
+Math Trial End,1554.6983507000841,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1556.7245900999987,,,,Hard Math Task,1,022,,,
+Choice presented,1556.7349609000375,,,,Hard Math Task,1,022,,,
+Choice made,1560.3025338000152,,,,Hard Math Task,1,022,,,
+Math Trial End,1560.3025710000657,True,,,Hard Math Task,1,022,,,
+Math Trial End,1560.302585400059,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1562.3288696000818,,,,Hard Math Task,1,022,,,
+Choice presented,1562.33924510004,,,,Hard Math Task,1,022,,,
+Choice made,1565.4067811999703,,,,Hard Math Task,1,022,,,
+Math Trial End,1565.406852300046,True,,,Hard Math Task,1,022,,,
+Math Trial End,1565.406889899983,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1567.432654300006,,,,Hard Math Task,1,022,,,
+Choice presented,1567.4433320000535,,,,Hard Math Task,1,022,,,
+Choice made,1570.5944343999727,,,,Hard Math Task,1,022,,,
+Math Trial End,1570.5944722000277,True,,,Hard Math Task,1,022,,,
+Math Trial End,1570.5944879000308,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1572.620099300053,,,,Hard Math Task,1,022,,,
+Choice presented,1572.6309700000565,,,,Hard Math Task,1,022,,,
+Choice made,1575.731912599993,,,,Hard Math Task,1,022,,,
+Math Trial End,1575.731951200054,True,,,Hard Math Task,1,022,,,
+Math Trial End,1575.7319666000549,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1577.758032200043,,,,Hard Math Task,1,022,,,
+Choice presented,1577.772167099989,,,,Hard Math Task,1,022,,,
+Choice made,1580.7357205000008,,,,Hard Math Task,1,022,,,
+Math Trial End,1580.7357903000666,True,,,Hard Math Task,1,022,,,
+Math Trial End,1580.7358285000082,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1582.7604885000037,,,,Hard Math Task,1,022,,,
+Choice presented,1582.7718643000117,,,,Hard Math Task,1,022,,,
+Choice made,1584.955661999993,,,,Hard Math Task,1,022,,,
+Math Trial End,1584.955733400071,True,,,Hard Math Task,1,022,,,
+Math Trial End,1584.9557735000271,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1586.9805970999878,,,,Hard Math Task,1,022,,,
+Choice presented,1586.9921251999913,,,,Hard Math Task,1,022,,,
+Choice made,1589.0922485999763,,,,Hard Math Task,1,022,,,
+Math Trial End,1589.0923275999958,True,,,Hard Math Task,1,022,,,
+Math Trial End,1589.0923704999732,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1591.118896399974,,,,Hard Math Task,1,022,,,
+Choice presented,1591.1290850000223,,,,Hard Math Task,1,022,,,
+Choice made,1593.1789540000027,,,,Hard Math Task,1,022,,,
+Math Trial End,1593.1789927000646,True,,,Hard Math Task,1,022,,,
+Math Trial End,1593.1790089000715,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1595.2050817999989,,,,Hard Math Task,1,022,,,
+Choice presented,1595.2154992000433,,,,Hard Math Task,1,022,,,
+Choice made,1598.14944259997,,,,Hard Math Task,1,022,,,
+Math Trial End,1598.1495176000753,True,,,Hard Math Task,1,022,,,
+Math Trial End,1598.1495595000451,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1600.1749092000537,,,,Hard Math Task,1,022,,,
+Choice presented,1600.186267400044,,,,Hard Math Task,1,022,,,
+Choice made,1602.2193858000683,,,,Hard Math Task,1,022,,,
+Math Trial End,1602.2194645000855,True,,,Hard Math Task,1,022,,,
+Math Trial End,1602.2195087000728,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1604.2435273000738,,,,Hard Math Task,1,022,,,
+Choice presented,1604.2562398000155,,,,Hard Math Task,1,022,,,
+Choice made,1607.6740339000244,,,,Hard Math Task,1,022,,,
+Math Trial End,1607.6740715000778,True,,,Hard Math Task,1,022,,,
+Math Trial End,1607.6740873000817,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1609.6994356000796,,,,Hard Math Task,1,022,,,
+Choice presented,1609.7104251000565,,,,Hard Math Task,1,022,,,
+Choice made,1613.0447089000372,,,,Hard Math Task,1,022,,,
+Math Trial End,1613.0447381000267,True,,,Hard Math Task,1,022,,,
+Math Trial End,1613.0447539000306,True,,,Hard Math Task,1,022,,,
+Math Task End,1615.0624276000308,,,,Hard Math Task,1,022,,,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,1615.0633983999724
+ESQ,1620.1610882000532,,Problem_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1629.3741988000693,,Problem_response,8.59999999999999,Experience Sampling Questions,1,022,,Marker Started at 6,Hard Math Task
+ESQ,1629.37479120004,,Detailed_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1633.3440509000793,,Detailed_response,7.899999999999997,Experience Sampling Questions,1,022,,Marker Started at 7,Hard Math Task
+ESQ,1633.344655300025,,Deliberate_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1639.264905899996,,Deliberate_response,7.99999999999999,Experience Sampling Questions,1,022,,Marker Started at 4,Hard Math Task
+ESQ,1639.265504400013,,Focus_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1643.518925499986,,Focus_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 8,Hard Math Task
+ESQ,1643.519558400032,,Distracting_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1647.6063234000467,,Distracting_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 8,Hard Math Task
+ESQ,1647.606947900029,,Knowledge_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1651.490715400083,,Knowledge_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 5,Hard Math Task
+ESQ,1651.491311800084,,Future_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1655.861957599991,,Future_response,1.6,Experience Sampling Questions,1,022,,Marker Started at 2,Hard Math Task
+ESQ,1655.862534300075,,Images_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1661.8167457000818,,Images_response,2.800000000000005,Experience Sampling Questions,1,022,,Marker Started at 7,Hard Math Task
+ESQ,1661.8173789000139,,Words_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1671.5745391000528,,Words_response,3.9000000000000026,Experience Sampling Questions,1,022,,Marker Started at 6,Hard Math Task
+ESQ,1671.575144900009,,Intrusive_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1675.4605575000169,,Intrusive_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 4,Hard Math Task
+ESQ,1675.4611605000682,,Past_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1680.0307466000086,,Past_response,2.0000000000000044,Experience Sampling Questions,1,022,,Marker Started at 7,Hard Math Task
+ESQ,1680.0313511000713,,Absorption_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1684.4504317999817,,Absorption_response,8.79999999999999,Experience Sampling Questions,1,022,,Marker Started at 2,Hard Math Task
+ESQ,1684.451035300037,,Other_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1687.953156100004,,Other_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 5,Hard Math Task
+ESQ,1687.953745600069,,Sounds_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1692.9581457000459,,Sounds_response,1.6,Experience Sampling Questions,1,022,,Marker Started at 3,Hard Math Task
+ESQ,1692.9586247000843,,Emotion_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1698.9288229000522,,Emotion_response,6.999999999999994,Experience Sampling Questions,1,022,,Marker Started at 4,Hard Math Task
+ESQ,1698.9294172000373,,Self_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1703.7164171000477,,Self_response,7.000000000000007,Experience Sampling Questions,1,022,,Marker Started at 9,Hard Math Task
+EXPERIMENT DATA:,Hard Math Task
+Start Time,1703.7251248999964
+Math Task Start,1712.4510513000423,,,,Hard Math Task,1,022,,,
+fixation cross,1712.4617002999876,,,,Hard Math Task,1,022,,,
+Math Trial Start,1714.5030143000185,,,,Hard Math Task,1,022,,,
+Choice presented,1714.5106834999751,,,,Hard Math Task,1,022,,,
+Choice made,1716.4936732000206,,,,Hard Math Task,1,022,,,
+Math Trial End,1716.4937028000131,True,,,Hard Math Task,1,022,,,
+Math Trial End,1716.493716500001,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1718.5209672000492,,,,Hard Math Task,1,022,,,
+Choice presented,1718.530523100053,,,,Hard Math Task,1,022,,,
+Choice made,1721.4977150000632,,,,Hard Math Task,1,022,,,
+Math Trial End,1721.497744100052,True,,,Hard Math Task,1,022,,,
+Math Trial End,1721.4977621000726,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1723.524048399995,,,,Hard Math Task,1,022,,,
+Choice presented,1723.5345893000485,,,,Hard Math Task,1,022,,,
+Choice made,1727.268962000031,,,,Hard Math Task,1,022,,,
+Math Trial End,1727.2690006999765,True,,,Hard Math Task,1,022,,,
+Math Trial End,1727.2690165999811,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1729.2943577000406,,,,Hard Math Task,1,022,,,
+Choice presented,1729.305832699989,,,,Hard Math Task,1,022,,,
+Choice made,1732.5397838000208,,,,Hard Math Task,1,022,,,
+Math Trial End,1732.5398235999746,True,,,Hard Math Task,1,022,,,
+Math Trial End,1732.5398386999732,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1734.5644103999948,,,,Hard Math Task,1,022,,,
+Choice presented,1734.5767861000495,,,,Hard Math Task,1,022,,,
+Choice made,1737.9442036000546,,,,Hard Math Task,1,022,,,
+Math Trial End,1737.944232400041,True,,,Hard Math Task,1,022,,,
+Math Trial End,1737.9442464000313,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1739.9731794000836,,,,Hard Math Task,1,022,,,
+Choice presented,1739.9806500000414,,,,Hard Math Task,1,022,,,
+Choice made,1742.330977100064,,,,Hard Math Task,1,022,,,
+Math Trial End,1742.3310556000797,True,,,Hard Math Task,1,022,,,
+Math Trial End,1742.3310721999733,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1744.3567780000158,,,,Hard Math Task,1,022,,,
+Choice presented,1744.3679201999912,,,,Hard Math Task,1,022,,,
+Choice made,1746.6179586000508,,,,Hard Math Task,1,022,,,
+Math Trial End,1746.6179968999932,False,,,Hard Math Task,1,022,,,
+Math Trial End,1746.6180123999948,False,,,Hard Math Task,1,022,,,
+Math Trial Start,1748.6440551000414,,,,Hard Math Task,1,022,,,
+Choice presented,1748.6545645999722,,,,Hard Math Task,1,022,,,
+Choice made,1750.8211473000702,,,,Hard Math Task,1,022,,,
+Math Trial End,1750.8212212000508,True,,,Hard Math Task,1,022,,,
+Math Trial End,1750.82126170001,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1752.8469333000248,,,,Hard Math Task,1,022,,,
+Choice presented,1752.8579836999997,,,,Hard Math Task,1,022,,,
+Choice made,1755.9751136000268,,,,Hard Math Task,1,022,,,
+Math Trial End,1755.9751440000255,False,,,Hard Math Task,1,022,,,
+Math Trial End,1755.9751580000157,False,,,Hard Math Task,1,022,,,
+Math Trial Start,1758.003795000026,,,,Hard Math Task,1,022,,,
+Choice presented,1758.0121678999858,,,,Hard Math Task,1,022,,,
+Choice made,1760.8792630999815,,,,Hard Math Task,1,022,,,
+Math Trial End,1760.8793451000238,True,,,Hard Math Task,1,022,,,
+Math Trial End,1760.8793849999784,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1762.9056457000552,,,,Hard Math Task,1,022,,,
+Choice presented,1762.9190162000014,,,,Hard Math Task,1,022,,,
+Choice made,1766.3000951000722,,,,Hard Math Task,1,022,,,
+Math Trial End,1766.3001357000321,False,,,Hard Math Task,1,022,,,
+Math Trial End,1766.300175899989,False,,,Hard Math Task,1,022,,,
+Math Trial Start,1768.3259507999755,,,,Hard Math Task,1,022,,,
+Choice presented,1768.3369898999808,,,,Hard Math Task,1,022,,,
+Choice made,1772.5551811000332,,,,Hard Math Task,1,022,,,
+Math Trial End,1772.5552504999796,True,,,Hard Math Task,1,022,,,
+Math Trial End,1772.555289400043,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1774.5894661999773,,,,Hard Math Task,1,022,,,
+Choice presented,1774.6095111999894,,,,Hard Math Task,1,022,,,
+Choice made,1778.8098869000096,,,,Hard Math Task,1,022,,,
+Math Trial End,1778.8099448999856,True,,,Hard Math Task,1,022,,,
+Math Trial End,1778.8099592999788,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1780.8359781000763,,,,Hard Math Task,1,022,,,
+Choice presented,1780.847031100071,,,,Hard Math Task,1,022,,,
+Choice made,1784.230837500072,,,,Hard Math Task,1,022,,,
+Math Trial End,1784.2308673000662,True,,,Hard Math Task,1,022,,,
+Math Trial End,1784.2308836000739,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1786.257348000072,,,,Hard Math Task,1,022,,,
+Choice presented,1786.2678259999957,,,,Hard Math Task,1,022,,,
+Choice made,1788.684640499996,,,,Hard Math Task,1,022,,,
+Math Trial End,1788.6846700999886,True,,,Hard Math Task,1,022,,,
+Math Trial End,1788.684684399981,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1790.7088600000134,,,,Hard Math Task,1,022,,,
+Choice presented,1790.7208948000334,,,,Hard Math Task,1,022,,,
+Choice made,1792.9049745000666,,,,Hard Math Task,1,022,,,
+Math Trial End,1792.9050113999983,True,,,Hard Math Task,1,022,,,
+Math Trial End,1792.9050261999946,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1794.9308938999893,,,,Hard Math Task,1,022,,,
+Choice presented,1794.9410121000838,,,,Hard Math Task,1,022,,,
+Choice made,1798.425654200022,,,,Hard Math Task,1,022,,,
+Math Trial End,1798.4256855000276,False,,,Hard Math Task,1,022,,,
+Math Trial End,1798.4257004000247,False,,,Hard Math Task,1,022,,,
+Math Task End,1800.442964100046,,,,Hard Math Task,1,022,,,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,1800.4438741999911
+ESQ,1803.8732362000737,,Future_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1815.806129100034,,Future_response,6.900000000000004,Experience Sampling Questions,1,022,,Marker Started at 8,Hard Math Task
+ESQ,1815.8068260999862,,Other_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1819.2252965000225,,Other_response,8.499999999999988,Experience Sampling Questions,1,022,,Marker Started at 5,Hard Math Task
+ESQ,1819.2259887000546,,Past_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1823.2455017999746,,Past_response,2.2000000000000046,Experience Sampling Questions,1,022,,Marker Started at 7,Hard Math Task
+ESQ,1823.246080800076,,Problem_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1827.447813600069,,Problem_response,8.699999999999989,Experience Sampling Questions,1,022,,Marker Started at 2,Hard Math Task
+ESQ,1827.4484221000457,,Detailed_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1831.3166280000005,,Detailed_response,7.800000000000004,Experience Sampling Questions,1,022,,Marker Started at 9,Hard Math Task
+ESQ,1831.3172140000388,,Knowledge_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1834.0705861999886,,Knowledge_response,10.0,Experience Sampling Questions,1,022,,Marker Started at 10,Hard Math Task
+ESQ,1834.0711684999987,,Absorption_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1837.8396955999779,,Absorption_response,9.499999999999998,Experience Sampling Questions,1,022,,Marker Started at 9,Hard Math Task
+ESQ,1837.8401204000693,,Sounds_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1842.309821999981,,Sounds_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 8,Hard Math Task
+ESQ,1842.3103785000276,,Images_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1847.2143937000073,,Images_response,2.9000000000000017,Experience Sampling Questions,1,022,,Marker Started at 6,Hard Math Task
+ESQ,1847.214997800067,,Deliberate_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1852.218867400079,,Deliberate_response,8.499999999999991,Experience Sampling Questions,1,022,,Marker Started at 6,Hard Math Task
+ESQ,1852.2194496999728,,Emotion_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1857.806397599983,,Emotion_response,4.300000000000001,Experience Sampling Questions,1,022,,Marker Started at 3,Hard Math Task
+ESQ,1857.8070393999806,,Intrusive_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1865.128857200034,,Intrusive_response,4.70000000000001,Experience Sampling Questions,1,022,,Marker Started at 8,Hard Math Task
+ESQ,1865.129477599985,,Distracting_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1870.132646700018,,Distracting_response,7.200000000000003,Experience Sampling Questions,1,022,,Marker Started at 8,Hard Math Task
+ESQ,1870.1332134000259,,Words_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1874.8535896000685,,Words_response,6.000000000000007,Experience Sampling Questions,1,022,,Marker Started at 8,Hard Math Task
+ESQ,1874.854203899973,,Focus_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1880.2740485999966,,Focus_response,7.499999999999992,Experience Sampling Questions,1,022,,Marker Started at 4,Hard Math Task
+ESQ,1880.2746266999748,,Self_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1883.9265861000167,,Self_response,8.099999999999993,Experience Sampling Questions,1,022,,Marker Started at 6,Hard Math Task
+EXPERIMENT DATA:,Hard Math Task
+Start Time,1883.9371705000522
+Math Task Start,1890.131375900004,,,,Hard Math Task,1,022,,,
+fixation cross,1890.14174500003,,,,Hard Math Task,1,022,,,
+Math Trial Start,1892.176627799985,,,,Hard Math Task,1,022,,,
+Choice presented,1892.1856766000856,,,,Hard Math Task,1,022,,,
+Choice made,1894.7023907999974,,,,Hard Math Task,1,022,,,
+Math Trial End,1894.7024483999703,True,,,Hard Math Task,1,022,,,
+Math Trial End,1894.7024794999743,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1896.7284935000353,,,,Hard Math Task,1,022,,,
+Choice presented,1896.7393698000815,,,,Hard Math Task,1,022,,,
+Choice made,1899.1563092999859,,,,Hard Math Task,1,022,,,
+Math Trial End,1899.1563474000432,True,,,Hard Math Task,1,022,,,
+Math Trial End,1899.1563634000486,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1901.1837206999771,,,,Hard Math Task,1,022,,,
+Choice presented,1901.1925048000412,,,,Hard Math Task,1,022,,,
+Choice made,1903.0924789999845,,,,Hard Math Task,1,022,,,
+Math Trial End,1903.092558400007,True,,,Hard Math Task,1,022,,,
+Math Trial End,1903.0926024999935,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1905.1166916000657,,,,Hard Math Task,1,022,,,
+Choice presented,1905.1293267,,,,Hard Math Task,1,022,,,
+Choice made,1907.4291378000053,,,,Hard Math Task,1,022,,,
+Math Trial End,1907.4291677,True,,,Hard Math Task,1,022,,,
+Math Trial End,1907.4291819999926,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1909.456016000011,,,,Hard Math Task,1,022,,,
+Choice presented,1909.466263600043,,,,Hard Math Task,1,022,,,
+Choice made,1911.8664307000581,,,,Hard Math Task,1,022,,,
+Math Trial End,1911.8664686999982,True,,,Hard Math Task,1,022,,,
+Math Trial End,1911.866484099999,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1913.8912377000088,,,,Hard Math Task,1,022,,,
+Choice presented,1913.9029117000755,,,,Hard Math Task,1,022,,,
+Choice made,1917.3871981999837,,,,Hard Math Task,1,022,,,
+Math Trial End,1917.387226800085,False,,,Hard Math Task,1,022,,,
+Math Trial End,1917.3872421000851,False,,,Hard Math Task,1,022,,,
+Math Trial Start,1919.4138781999936,,,,Hard Math Task,1,022,,,
+Choice presented,1919.4240917999996,,,,Hard Math Task,1,022,,,
+Choice made,1922.0076404999709,,,,Hard Math Task,1,022,,,
+Math Trial End,1922.0076694000745,True,,,Hard Math Task,1,022,,,
+Math Trial End,1922.0076839000685,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1924.0333035000367,,,,Hard Math Task,1,022,,,
+Choice presented,1924.0441967999795,,,,Hard Math Task,1,022,,,
+Choice made,1926.6779602000024,,,,Hard Math Task,1,022,,,
+Math Trial End,1926.6780308000743,True,,,Hard Math Task,1,022,,,
+Math Trial End,1926.6780703000259,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1928.7044882000191,,,,Hard Math Task,1,022,,,
+Choice presented,1928.714715900016,,,,Hard Math Task,1,022,,,
+Choice made,1931.0312110000523,,,,Hard Math Task,1,022,,,
+Math Trial End,1931.0312440000707,True,,,Hard Math Task,1,022,,,
+Math Trial End,1931.0312585000647,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1933.0582820000127,,,,Hard Math Task,1,022,,,
+Choice presented,1933.0680654000025,,,,Hard Math Task,1,022,,,
+Choice made,1936.268922700081,,,,Hard Math Task,1,022,,,
+Math Trial End,1936.2689667000668,True,,,Hard Math Task,1,022,,,
+Math Trial End,1936.2689825000707,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1938.2955631000223,,,,Hard Math Task,1,022,,,
+Choice presented,1938.305772599997,,,,Hard Math Task,1,022,,,
+Choice made,1940.6557422999758,,,,Hard Math Task,1,022,,,
+Math Trial End,1940.6557730999775,True,,,Hard Math Task,1,022,,,
+Math Trial End,1940.6557875999715,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1942.6827461000066,,,,Hard Math Task,1,022,,,
+Choice presented,1942.692046900047,,,,Hard Math Task,1,022,,,
+Choice made,1945.2592374000233,,,,Hard Math Task,1,022,,,
+Math Trial End,1945.2592845000327,False,,,Hard Math Task,1,022,,,
+Math Trial End,1945.2592987000244,False,,,Hard Math Task,1,022,,,
+Math Trial Start,1947.2851639,,,,Hard Math Task,1,022,,,
+Choice presented,1947.2962718000636,,,,Hard Math Task,1,022,,,
+Choice made,1950.22987619997,,,,Hard Math Task,1,022,,,
+Math Trial End,1950.229906899971,True,,,Hard Math Task,1,022,,,
+Math Trial End,1950.2299210000783,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1952.2555582000641,,,,Hard Math Task,1,022,,,
+Choice presented,1952.2669258000096,,,,Hard Math Task,1,022,,,
+Choice made,1955.1506000000518,,,,Hard Math Task,1,022,,,
+Math Trial End,1955.1506593000377,True,,,Hard Math Task,1,022,,,
+Math Trial End,1955.1506937000668,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1957.1772248999914,,,,Hard Math Task,1,022,,,
+Choice presented,1957.1875396000687,,,,Hard Math Task,1,022,,,
+Choice made,1960.2213032,,,,Hard Math Task,1,022,,,
+Math Trial End,1960.2213614999782,False,,,Hard Math Task,1,022,,,
+Math Trial End,1960.2213929999853,False,,,Hard Math Task,1,022,,,
+Math Trial Start,1962.246844300069,,,,Hard Math Task,1,022,,,
+Choice presented,1962.2577629999723,,,,Hard Math Task,1,022,,,
+Choice made,1965.1255429000594,,,,Hard Math Task,1,022,,,
+Math Trial End,1965.1255810000002,True,,,Hard Math Task,1,022,,,
+Math Trial End,1965.1255965000018,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1967.1512969000032,,,,Hard Math Task,1,022,,,
+Choice presented,1967.1615157000488,,,,Hard Math Task,1,022,,,
+Choice made,1971.0298610000173,,,,Hard Math Task,1,022,,,
+Math Trial End,1971.0299029999878,True,,,Hard Math Task,1,022,,,
+Math Trial End,1971.029918699991,True,,,Hard Math Task,1,022,,,
+Math Trial Start,1973.0545401000418,,,,Hard Math Task,1,022,,,
+Choice presented,1973.066109700012,,,,Hard Math Task,1,022,,,
+Choice made,1977.9857694000239,,,,Hard Math Task,1,022,,,
+Math Trial End,1977.9858143000165,False,,,Hard Math Task,1,022,,,
+Math Trial End,1977.9858297000173,False,,,Hard Math Task,1,022,,,
+Math Task End,1980.0020680000307,,,,Hard Math Task,1,022,,,
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,1980.0030754000181
+ESQ,1983.3147347000195,,Deliberate_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1988.3605044999858,,Deliberate_response,8.499999999999991,Experience Sampling Questions,1,022,,Marker Started at 6,Hard Math Task
+ESQ,1988.3611881000688,,Future_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1993.848017100012,,Future_response,4.5000000000000036,Experience Sampling Questions,1,022,,Marker Started at 6,Hard Math Task
+ESQ,1993.8486191000557,,Problem_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,1997.7004186999984,,Problem_response,9.500000000000002,Experience Sampling Questions,1,022,,Marker Started at 10,Hard Math Task
+ESQ,1997.7010428999783,,Other_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2001.0365458000451,,Other_response,7.89999999999999,Experience Sampling Questions,1,022,,Marker Started at 5,Hard Math Task
+ESQ,2001.0371706000296,,Detailed_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2004.1387357000494,,Detailed_response,7.399999999999993,Experience Sampling Questions,1,022,,Marker Started at 3,Hard Math Task
+ESQ,2004.1393669000827,,Self_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2008.3261837000027,,Self_response,8.39999999999999,Experience Sampling Questions,1,022,,Marker Started at 3,Hard Math Task
+ESQ,2008.3268597000279,,Images_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2014.2464011000702,,Images_response,1.7000000000000082,Experience Sampling Questions,1,022,,Marker Started at 8,Hard Math Task
+ESQ,2014.2469733000034,,Intrusive_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2019.1348943000194,,Intrusive_response,5.800000000000004,Experience Sampling Questions,1,022,,Marker Started at 7,Hard Math Task
+ESQ,2019.1355039000046,,Words_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2023.6221887000138,,Words_response,4.100000000000001,Experience Sampling Questions,1,022,,Marker Started at 2,Hard Math Task
+ESQ,2023.6228230000706,,Focus_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2028.9931834000163,,Focus_response,3.200000000000001,Experience Sampling Questions,1,022,,Marker Started at 2,Hard Math Task
+ESQ,2028.9938330000732,,Sounds_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2033.0625130999833,,Sounds_response,1.0,Experience Sampling Questions,1,022,,Marker Started at 5,Hard Math Task
+ESQ,2033.0629859999754,,Emotion_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2040.9187517000828,,Emotion_response,3.9000000000000132,Experience Sampling Questions,1,022,,Marker Started at 9,Hard Math Task
+ESQ,2040.9193477000808,,Absorption_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2045.4055741999764,,Absorption_response,6.599999999999994,Experience Sampling Questions,1,022,,Marker Started at 5,Hard Math Task
+ESQ,2045.4061534000793,,Distracting_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2056.2805009000003,,Distracting_response,2.100000000000015,Experience Sampling Questions,1,022,,Marker Started at 10,Hard Math Task
+ESQ,2056.2812008999754,,Past_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2061.8352969000116,,Past_response,1.4999999999999976,Experience Sampling Questions,1,022,,Marker Started at 5,Hard Math Task
+ESQ,2061.835914000054,,Knowledge_start,,Experience Sampling Questions,1,022,,,Hard Math Task
+ESQ,2066.7561391000636,,Knowledge_response,9.200000000000003,Experience Sampling Questions,1,022,,Marker Started at 8,Hard Math Task
