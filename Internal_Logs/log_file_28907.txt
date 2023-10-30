@@ -1,0 +1,37 @@
+pygame 2.1.2 (SDL 2.0.18, Python 3.6.13)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[1968743, '086']
+
+Now initializing GoNoGo Task
+Now setting up GoNoGo Task
+Now running GoNoGo Task
+Now starting ESQ for GoNoGo Task
+Now initializing GoNoGo Task
+Now setting up GoNoGo Task
+Now running GoNoGo Task
+Now starting ESQ for GoNoGo Task
+Now initializing GoNoGo Task
+Now setting up GoNoGo Task
+Now running GoNoGo Task
+Now starting ESQ for GoNoGo Task
+Now initializing Movie Task
+Now setting up Movie Task
+Now running Movie Task
+Now starting ESQ for Movie Task-Movie Task-bridge
+Now initializing Hard Math Task
+Now setting up Hard Math Task
+Now running Hard Math Task
+Now starting ESQ for Hard Math Task
+2.3262 	WARNING 	Speech-to-text recognition module not available (use command `pip install SpeechRecognition` to get it. Transcription will be unavailable.
+2.3648 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+12.4579 	WARNING 	Monitor specification not found. Creating a temporary one...
+12.4619 	WARNING 	User requested fullscreen with size [1440  960], but screen is actually [2560, 1440]. Using actual size
+138.7400 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+146.3308 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+332.4608 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+334.4846 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+492.2714 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+494.1114 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+646.7734 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+724.9952 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+907.9070 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
