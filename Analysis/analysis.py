@@ -46,13 +46,13 @@ with open("Tasks/taskScripts/resources/Other_Task/Other_Stimuli.csv",'r') as f:
         sentimentdict.update({row[6]:row[8]})
         #print(row)
 
-with open('Analysis/coords.csv','r') as ft:
-    rd = csv.reader(ft)
-    for e,row in enumerate(rd):
-        if e == 0:
-            continue
-        graddict.update({row[0]:[float(row[1]),float(row[2]),float(row[3]),float(row[4]),float(row[5])]})
-        #print(row)
+# with open('Analysis/coords.csv','r') as ft:
+#     rd = csv.reader(ft)
+#     for e,row in enumerate(rd):
+#         if e == 0:
+#             continue
+#         graddict.update({row[0]:[float(row[1]),float(row[2]),float(row[3]),float(row[4]),float(row[5])]})
+#         #print(row)
 
 
 line_dict= {"Task_name":None,
@@ -73,12 +73,12 @@ line_dict= {"Task_name":None,
         "Future_response":None,
         "Emotion_response":None,
         "Self_response":None,
-        "Knowledge_response":None,
-        "Gradient_1":None,
-        "Gradient_2":None,
-        "Gradient_3":None,
-        "Gradient_4":None,
-        "Gradient_5":None
+        "Knowledge_response":None#,
+        #"Gradient_1":None,
+        #"Gradient_2":None,
+        #"Gradient_3":None,
+        #"Gradient_4":None,
+        #"Gradient_5":None
         }
 
 if os.path.exists(os.path.join(os.getcwd(),"Analysis/output.csv")):
@@ -374,12 +374,12 @@ for file in tqdm(os.listdir("Tasks/log_file")):
         "Future_response":None,
         "Emotion_response":None,
         "Self_response":None,
-        "Knowledge_response":None,
-        "Gradient 1":None,
-        "Gradient 2":None,
-        "Gradient 3":None,
-        "Gradient 4":None,
-        "Gradient 5":None
+        "Knowledge_response":None #,
+        #"Gradient 1":None,
+        #"Gradient 2":None,
+        #"Gradient 3":None,
+        #"Gradient 4":None,
+        #"Gradient 5":None
         }
 
         _,_,subject,seed = ftemp.split("_")
@@ -409,8 +409,8 @@ for file in tqdm(os.listdir("Tasks/log_file")):
                         if task_name == "Movie Task-Movie Task-incept":
                             task_name = "Movie Task-incept"
                             line_dict["Task_name"] = task_name.replace(" ","_")
-                        grads = graddict[line_dict["Task_name"]]
-                        line_dict["Gradient 1"],line_dict["Gradient 2"],line_dict["Gradient 3"],line_dict["Gradient 4"],line_dict["Gradient 5"] = grads
+                        # grads = graddict[line_dict["Task_name"]]
+                        # line_dict["Gradient 1"],line_dict["Gradient 2"],line_dict["Gradient 3"],line_dict["Gradient 4"],line_dict["Gradient 5"] = grads
                         with open("Analysis/output.csv", 'a', newline="") as outf:
                             wr = csv.writer(outf)
                             #wr.writerow(list(line_dict.keys()))
