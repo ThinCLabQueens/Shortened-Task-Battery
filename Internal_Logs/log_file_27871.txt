@@ -1,0 +1,66 @@
+pygame 2.1.2 (SDL 2.0.18, Python 3.6.13)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[2349888, '101']
+
+Now initializing GoNoGo Task
+Now setting up GoNoGo Task
+Now running GoNoGo Task
+Now starting ESQ for GoNoGo Task
+Now initializing GoNoGo Task
+Now setting up GoNoGo Task
+Now running GoNoGo Task
+Now starting ESQ for GoNoGo Task
+Now initializing GoNoGo Task
+Now setting up GoNoGo Task
+Now running GoNoGo Task
+Now starting ESQ for GoNoGo Task
+Now initializing Memory Task
+Now setting up Memory Task
+Now running Memory Task
+Now starting ESQ for Memory Task
+Now initializing Memory Task
+Now setting up Memory Task
+Now running Memory Task
+Now starting ESQ for Memory Task
+Now initializing Memory Task
+Now setting up Memory Task
+Now running Memory Task
+Now starting ESQ for Memory Task
+Now initializing Movie Task
+Now setting up Movie Task
+Now running Movie Task
+Now starting ESQ for Movie Task-Movie Task-bridge
+Now initializing Hard Math Task
+Now setting up Hard Math Task
+Now running Hard Math Task
+Now starting ESQ for Hard Math Task
+Now initializing Hard Math Task
+Now setting up Hard Math Task
+Now running Hard Math Task
+Now starting ESQ for Hard Math Task
+Now initializing Hard Math Task
+Now setting up Hard Math Task
+Now running Hard Math Task
+Now starting ESQ for Hard Math Task
+Success
+1.9554 	WARNING 	Speech-to-text recognition module not available (use command `pip install SpeechRecognition` to get it. Transcription will be unavailable.
+1.9954 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+18.2608 	WARNING 	Monitor specification not found. Creating a temporary one...
+18.2642 	WARNING 	User requested fullscreen with size [1440  960], but screen is actually [2560, 1440]. Using actual size
+160.1774 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+166.6379 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+344.5734 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+347.7511 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+476.6466 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+479.1870 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+512.2104 	WARNING 	ExperimentHandler created with no dataFileName parameter. No data will be saved in the event of a crash
+564.6235 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+616.4546 	WARNING 	ExperimentHandler created with no dataFileName parameter. No data will be saved in the event of a crash
+673.4767 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+713.2491 	WARNING 	ExperimentHandler created with no dataFileName parameter. No data will be saved in the event of a crash
+757.6605 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+835.9791 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+947.0445 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+1073.0790 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+1190.7721 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+1311.7002 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
