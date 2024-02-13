@@ -446,7 +446,7 @@ for file in tqdm(os.listdir("Tasks/log_file")):
                     ##print(row)
                 else:
                     ect = 0
-                    enum =0
+                    enum = 0
                 
         #print(file)
     else:
